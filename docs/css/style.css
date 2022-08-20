@@ -1,0 +1,33 @@
+body{
+    background: black;
+    margin: 32px;
+}
+
+.main_page{
+    display: flex;
+    color: white;
+    font-family: sans-serif;
+}
+
+.profile_photo{
+    border: white solid 2px;
+    margin: 16px 16px;
+}
+
+.profile_photo img{
+    height: 400px;
+    width: 400px;
+}
+
+.intro{
+    width: 60%;
+    margin: 16px;
+}
+
+.intro h1{
+    font-size: 64px;
+}
+
+.intro p{
+    font-size: 24px;
+}
